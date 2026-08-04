@@ -177,6 +177,16 @@ Potential future enhancements include:
 - Real Semiconductor Fab Dataset Integration
 
 ---
+## How to Run
+
+1. Clone the repository.
+2. Install the required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib openpyxl jupyter
+   ```
+3. Run `01_Database_Generation.ipynb` to generate the wafer database.
+4. Run `02_Yield_Analysis.ipynb` to perform statistical analysis and generate visualizations.
+---
 
 ## Author
 
